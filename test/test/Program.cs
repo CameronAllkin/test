@@ -36,5 +36,6 @@ internal class Display
         {
             return LNC;
         }
+        return;
     }
 }
